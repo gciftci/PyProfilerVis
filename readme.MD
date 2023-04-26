@@ -10,8 +10,9 @@ $ pip install -r requirements.txt
 
 ## Usage
 To use PyRegexParser, import the `parse_text` function and provide it with an input string to be parsed and a regular expression pattern:
-from parse_text import parse_text
+
 ```
+from parse_text import parse_text
 # input string to be parsed
 input_str = "Some text to be parsed"
 
