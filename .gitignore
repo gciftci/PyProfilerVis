@@ -1,1 +1,8 @@
 /.v*
+/package/__pycach*
+/package/gui/__pycach*
+/package/utils/__pycach*
+package/gui/import_dialog.py
+package/gui/timeline.py
+package/gui/widgets.py
+package/utils/qicons.py
